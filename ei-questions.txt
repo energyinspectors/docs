@@ -1,0 +1,21 @@
+ei-questions
+
+1.  Solutions subnav menu options different from actual sections on the solutions page, need to reconcile
+
+2.  Do you have a Google Analytics account?  I started to create one, but found that both ei@gmail.com and energyinspectors@gmail.com were already taken.  If you own either, we can use them to create a GA account.
+
+3.  Since you're adding social media icons to the new site, you should grab the name "energyinspectors" at Twitter, Facebook, Google+, LinkedIn.
+
+Invoice $1000 to:
+bong@energyinspectors.com
+Troy Shay
+tshay@energyinspectors.com
+
+Technical issues: Jackson
+Social media:  Natasha nsavin@energyinspectors.com
+
+Answered
+
+1.  Contact form requires server-side work
+ - Jackson provided php script and info for this in gmail
+ 

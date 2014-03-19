@@ -1,0 +1,7 @@
+
+http://css-tricks.com/css-sprites/
+http://www.xhtmlweaver.com/?utm_source=css-tricks.com
+http://spriteme.org/
+http://coding.smashingmagazine.com/2009/04/27/the-mystery-of-css-sprites-techniques-tools-and-tutorials/
+http://css-tricks.com/css-sprites-workflow/
+http://css-tricks.com/css-sprites-with-inline-images/

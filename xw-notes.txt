@@ -1,0 +1,56 @@
+﻿Please also see the page1_notes.jpg, page2_notes.jpg, and hover_notes.jpg files, as they contain information on exact font sizes and layout dimensions.  This doc is mainly for clarification and checklist purposes.
+
+General
+static site
+not fluid layout
+full width horizontal menu with full width onmouseover submenu
+full width dividers (images)
+960px all other content
+
+Home Page Layout (Page1.jpg)
+
+Top Nav
+\/
+Divider 
+\/
+About Us
+back to top arrow
+\/
+Divider
+\/
+Contact Us form
+back to top arrow
+\/
+Divider
+\/
+Footer with Logos
+back to top arrow
+
+Top Nav
+Nav fixed at top, rest of page scrolls up underneath it
+Main Menu Items:  Solutions About Contact 
+No need to link any of these menu items, I'll provide those links later
+Hidden Submenu appears on mouseover of each Main Menu Item, this submenu is also full width
+Small blue triangle pointer flush with top of submenu appears, denoting currently moused-over top level menu.  See page1_notes.jpg.
+Equal spacing between all menu options, both main menu and submenu, not centered
+
+Secondary Page (Page2.jpg)
+Top Nav/Main Menu/Sub Menu as Home page
+Clicking Logo in top left returns to home page
+Contact us available on every single secondary page at bottom
+
+Content Dividers 
+Clickable image, full witdth
+No need to provide actual links, I'll add them in later
+
+State Changes on Mouseover (hover.jpg, hover_notes.jpg)
+1. top menu:
+- Menu item text color changes on mouseover 
+- Light blue submenu appears under Main menu, full width
+- Small Light blue Pointer to current moused-over top menu item appears, flush with top of submenu
+
+2.  “back to top arrows” turn dark on hover, take back to top of page
+
+Font
+Cantarell
+https://www.google.com/fonts/specimen/Cantarell

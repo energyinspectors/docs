@@ -1,0 +1,71 @@
+Adrienne Kimmy
+702-365-8080 x107
+akimmy@energyinspectors.com
+
+static site
+not fluid layout
+full width menu bar
+960 px rest of content
+home page with links to secondary pages
+banner images cycled through
+Nav sticks at top, rest of page scrolls up
+We provide solutions = list of services, block is clickable link to secondary page
+
+Font:  Cantarell
+https://www.google.com/fonts/specimen/Cantarell
+
+dividing banner
+
+Circle lights = about us section
+
+dividing banner
+
+Contact us = submitable form
+
+dividing banner
+
+footer, project portfolio included?  not sure yet
+
+back to top
+
+top menu, full witdth menu, state changes on mouseover
+same six pages as services blocks
+banner images may also link to those pages
+
+up arrow buttons turn dark on hover over, take back to home/top
+
+some links should target anchors further down page
+
+
+
+
+Secondary Pages
+
+light blue menu gone
+
+Contact us available on every single secondary page at bottom
+
+
+Logo returns to home page
+
+
+Top Menu Details
+
+Two levels:
+
+1.  Solutions  About Contact
+2.  Submenu for each
+
+Pointer to current location of #1, light blue up arrow.
+
+Light blue menu strip has little up arrow off-center to right pointing to one of three current home page locations - 
+
+
+Equal spacing between all menu options, not centered
+
+http://css-tricks.com/css-sprites/
+http://www.xhtmlweaver.com/?utm_source=css-tricks.com
+http://spriteme.org/
+http://coding.smashingmagazine.com/2009/04/27/the-mystery-of-css-sprites-techniques-tools-and-tutorials/
+http://css-tricks.com/css-sprites-workflow/
+http://css-tricks.com/css-sprites-with-inline-images/
